@@ -6,4 +6,5 @@ def my_each(array)   # put argument(s) here
     puts word
     i += 1
   end 
+end 
 end
